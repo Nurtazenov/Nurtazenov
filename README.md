@@ -65,8 +65,9 @@
 
 ![diplomMain](https://github.com/user-attachments/assets/7255bf13-d4f2-4761-9604-a01dfe25cd2e)
 
-3) Мидл фронтентд-разработчик от Яндекс практикума;
-4) Английский языка B1.1-Intermediate:
+2) Мидл фронтентд-разработчик от Яндекс практикума;
+ 
+3) Английский языка B1.1-Intermediate:
    
    <img width="931" height="662" alt="AdobeExpressPhotos_8952da7f5380495983f2129a8d82b59f_CopyEdited" src="https://github.com/user-attachments/assets/19f8697f-15f4-49dd-8423-1eda372e0df1" />
 
