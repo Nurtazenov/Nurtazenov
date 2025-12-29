@@ -55,9 +55,9 @@
 
 <h2>Проекты: </h2>
 
-1) Мессенджер на ванильном TS (без фреймворков) технологии Vite, Handlebars, SCSS, Jest а также деплоил проект через github pages и netlify;
+1) Мессенджер на ванильном TS (без фреймворков) технологии Vite, Handlebars, SCSS, Jest а также деплоил проект через github pages и netlify: https://github.com/Nurtazenov/middle.messenger.praktikum.yandex/tree/deploy;
 
-2) Командный проект MemoryCards, технологии: Vite, React, Redux, Express, PostgreSQL, Sequelize, GitHub actions, NGINX, деплоил через Yandex cloud; 
+2) Командный проект MemoryCards, технологии: Vite, React, Redux, Express, PostgreSQL, Sequelize, GitHub actions, NGINX, деплоил через Yandex cloud: https://github.com/nickkupriyan0v/amazing-game/tree/build; 
 
 <h2>Моё образование: </h2>
 
