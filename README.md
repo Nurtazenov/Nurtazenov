@@ -4,12 +4,15 @@
   <a href="https://vk.com/id581441371">
     <img src="https://img.shields.io/badge/Вконтакте-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
+  
   <a href="https://adamteh.ru/graduate/best/detail.php?ID=337">
     <img src="https://img.shields.io/badge/Характеристика-red?style=for-the-badge&logo=&logoColor=white"/>
   </a>
+  
   <a href="https://t.me/Nurtazenov_Asan">
     <img src="https://img.shields.io/badge/Телеграм-blue?style=for-the-badge&logo=twitter&logoColor=white" />
   </a>
+  
 </div>
   <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
