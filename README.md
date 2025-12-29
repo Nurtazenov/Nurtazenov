@@ -1,12 +1,12 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGVuMXZtMjF5anpuc3o3MnNmM21hb3VnaXZjbWh3OGhrY3RmMGs0dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ZgTR3UQ9XAWDvqy9jv/giphy.gif" width="400"/>
 <div id="badges">
   <a href="https://vk.com/id581441371">
     <img src="https://img.shields.io/badge/Вконтакте-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   
   <a href="https://adamteh.ru/graduate/best/detail.php?ID=337">
-    <img src="https://img.shields.io/badge/Характеристика-red?style=for-the-badge&logo=&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Моя Характеристика-red?style=for-the-badge&logo=&logoColor=white"/>
   </a>
   
   <a href="https://t.me/Nurtazenov_Asan">
