@@ -1,7 +1,7 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 <div id="badges">
-  <a href="[your-linkedin-URL](https://vk.com/id581441371)">
+  <a href="https://vk.com/id581441371">
     <img src="https://img.shields.io/badge/Вконтакте-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="https://adamteh.ru/graduate/best/detail.php?ID=337">
