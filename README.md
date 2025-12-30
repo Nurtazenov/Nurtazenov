@@ -45,6 +45,9 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/nginx/nginx-original.svg" title="Nginx" alt="Nginx" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/githubactions/githubactions-plain-wordmark.svg" title="GitHub-actions" alt="GitHub-actions" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/netlify/netlify-original.svg" title="Netlify" alt="Netlify" width="40" height="40"/>&nbsp;
+
+<h2>Цель: </h2> Получить первую коммерческую позицию  Frontend / Backend / Fullstack разработчика, познакомиться с новыми коллегами, расти внутри команды и усиливать инженерную экспертизу.
+
 <h2>Мои коммуникативные навыки (Soft Skills): </h2> 
 
 1) Я был Team Lead во время командной работы: координировал работу команды разработчиков, отвечал за итоговый результат проекта и деплоил проект на хостинг через Yandex cloud.
@@ -75,6 +78,4 @@
 
 <h2>Спорт: </h2> Занимаюсь лёгкой атлетикой, участвовал в забегах на 3 км, 5 км, 10 км и на 21.1 км, имею высокую дисциплину и стрессоустойчивость на высоких дистанциях. 
 
-<h2>Хобби: </h2> Люблю читать книги и играть в шахматы.
-
-<h2>Цель: </h2> Получить первую коммерческую позицию  Frontend / Backend / Fullstack разработчика, познакомиться с новыми коллегами, расти внутри команды и усиливать инженерную экспертизу. </div>
+<h2>Хобби: </h2> Люблю читать книги и играть в шахматы. </div>
