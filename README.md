@@ -36,8 +36,9 @@
 
 <h2>Тестирование: </h2>
 
-<img src="https://github.com/devicons/devicon/blob/master/icons/jest/jest-plain.svg" title="Nest" alt="Nest" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/jest/jest-plain.svg" title="Jest" alt="Jest" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/insomnia/insomnia-original.svg" title="Insomnia" alt="Insomnia" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/cypressio/cypressio-original-wordmark.svg" title="Cypress" alt="Cypress" width="60" height="50"/>&nbsp;
 
 <h2>DevOps: </h2>
 
