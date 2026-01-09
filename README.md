@@ -15,7 +15,8 @@
 </div>
 
 <div align="left">
-<h2>Цель: </h2> Получить первую коммерческую позицию  Frontend / Backend / Fullstack разработчика, познакомиться с новыми коллегами, расти внутри команды и усиливать инженерную экспертизу.
+<h2>О себе:</h2> Я начинающий Fullstack-разработчик с фокусом на TypeScript. Мнем интересно разбираться в задачах глубже и понимать как работает продукт целиком - от интерфейса до сервера и деплоя - и находить инженерное обоснование решения. 
+<h2>Цель: </h2> Получить первую коммерческую позицию  Frontend / Backend / Fullstack разработчика в команде, где можно развиваться, брать задачи и усиливать инженерную экспертизу.
 <h2>Frontend: </h2>
 
 <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
@@ -44,6 +45,7 @@
 
 <h2>DevOps: </h2>
 
+<img src="https://avatars.githubusercontent.com/u/42382453?s=48&v=4" title="Yandex cloud" alt="Yandex cloud" width="40" height="40" border-radius= "15px"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-plain.svg" title="Docker" alt="Docker" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/nginx/nginx-original.svg" title="Nginx" alt="Nginx" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/githubactions/githubactions-plain-wordmark.svg" title="GitHub-actions" alt="GitHub-actions" width="40" height="40"/>&nbsp;
@@ -73,8 +75,6 @@
    
    <img width="931" height="662" alt="AdobeExpressPhotos_8952da7f5380495983f2129a8d82b59f_CopyEdited" src="https://github.com/user-attachments/assets/19f8697f-15f4-49dd-8423-1eda372e0df1" />
 
-<h2>Дополнительный опыт: </h2> Работаю кладовщиком 4 года по строгим процессам и имею ответственность за материальные ценности, внимательность к деталям и надёжность.
+<h2>Дополнительный опыт: </h2> Работаю кладовщиком 4 года по строгим процессам и имею ответственность за материальные ценности, внимательность к деталям и надёжность. Этот опыт мне помог развить дисциплину и ответственност за результат.
 
-<h2>Спорт: </h2> Занимаюсь лёгкой атлетикой, участвовал в забегах на 3 км, 5 км, 10 км и на 21.1 км, имею высокую дисциплину и стрессоустойчивость на высоких дистанциях. 
-
-<h2>Хобби: </h2> Люблю читать книги и играть в шахматы. </div>
+<h2>Спорт и хобби: </h2> Занимаюсь лёгкой атлетикой, участвовал в забегах на 3 км, 5 км, 10 км и на 21.1 км, имею высокую дисциплину и стрессоустойчивость на высоких дистанциях, а также люблю читать книги и играть в шахматы. 
